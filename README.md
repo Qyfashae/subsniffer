@@ -1,2 +1,2 @@
 # subsniffer
-Easy Subdomain Enumeration script in Python
+Fast Subdomain Enumeration script in Python
